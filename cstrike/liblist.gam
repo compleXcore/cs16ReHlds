@@ -14,6 +14,3 @@ mpentity "info_player_start"
 gamedll "addons/metamod/metamod.dll"
 gamedll_linux “addons/metamod/metamod_i386.so”
 trainmap "tr_1"
-
-// https://www.facebook.com/profile.php?id=100005119756469
-// http://steamcommunity.com/id/Yek-ta
